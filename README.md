@@ -14,6 +14,8 @@ This project is a collection of fundamental HTML and CSS exercises designed to b
 - [Features](#features)
 - [How to Run](#how-to-run)
 - [Dependencies](#dependencies)
+- [Screenshots](#screenshots)
+- [Future Work](#future-work)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -58,6 +60,15 @@ The project covers essential topics such as:
 ## Dependencies
 - Modern web browser (Chrome, Firefox, etc.)  
 - Basic knowledge of HTML and CSS for customization.  
+
+## Screenshots
+Here is a preview of the project:  
+![Background Page](pictures/kiz-kulesi-gunes-batarken.jpg)
+
+## Future Work
+- Add JavaScript interactivity  
+- Implement advanced CSS animations  
+- Develop mobile-specific designs for better UX  
 
 ## Contributing
 To contribute:  
