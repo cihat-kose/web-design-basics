@@ -6,6 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Responsive Design](https://img.shields.io/badge/Responsive-6DB33F?style=for-the-badge&logo=responsive&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 This project is a collection of fundamental HTML and CSS exercises designed to build foundational web design skills. It includes various HTML structures, CSS styling techniques, and interactive web elements.
 
@@ -16,7 +17,7 @@ This project is a collection of fundamental HTML and CSS exercises designed to b
 - [Dependencies](#dependencies)
 - [Screenshots](#screenshots)
 - [Future Work](#future-work)
-- [Contributing](#contributing)
+- [Contributors](#contributors)
 - [License](#license)
 - [Contact](#contact)
 
@@ -70,7 +71,9 @@ Here is a preview of the project:
 - Implement advanced CSS animations  
 - Develop mobile-specific designs for better UX  
 
-## Contributing
+## Contributors
+- [Cihat Köse](https://github.com/cihat-kose)  
+
 To contribute:  
 1. Fork the repository.  
 2. Create a new branch:  
