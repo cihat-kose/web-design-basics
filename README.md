@@ -22,19 +22,34 @@ This project is a collection of fundamental HTML and CSS exercises designed to b
 
 ## Project Overview
 The project covers essential topics such as:
-- **HTML Pages:**  
-  - `background.html` – Background and paragraph styling  
-  - `box.html` – Box model and border designs  
-  - `form.html` – Simple form design  
-  - `menu.html` – Navigation menu structure  
-  - `links.html` – Styling links  
-  - `table.html` – Table design and background integration  
+- **HTML Pages:**
+  - `background.html` – Background and paragraph styling
+  - `box.html` – Box model and border designs
+  - `exercise.html` – Basic inline CSS example
+  - `exercise2.html` – Inline CSS styling
+  - `float.html` – Demonstrating float property
+  - `form.html` – Simple form design
+  - `groups.html` – Group selectors example
+  - `index.html` – Navigation to all examples
+  - `links.html` – Styling links
+  - `list.html` – List styling example
+  - `menu.html` – Navigation menu structure
+  - `products.html` – Placeholder products page
+  - `about.html` – Placeholder about page
+  - `contact.html` – Placeholder contact page
+  - `page.html` – Simple page sections
+  - `pagelayout.html` – Layout with article and aside
+  - `paragraph.html` – Paragraph styling
+  - `position.html` – Positioning example
+  - `priority.html` – CSS specificity example
+  - `shadow.html` – Box shadow example
+  - `table.html` – Table design and background integration
 
 - **CSS:**  
-  - `stil.css` – General stylesheet
+  - `style.css` – General stylesheet
 
 - **Images:**  
-  - `pictures/kiz-kulesi-gunes-batarken.jpg` – Background image  
+  - `pictures/maiden-tower-sunset.jpg` – Background image  
   - `pictures/submit.png` – Submit button  
   - `pictures/submit2.png` – Direction button  
 
@@ -63,7 +78,7 @@ The project covers essential topics such as:
 
 ## Screenshots
 Here is a preview of the project:  
-![Background Page](pictures/kiz-kulesi-gunes-batarken.jpg)
+![Background Page](pictures/maiden-tower-sunset.jpg)
 
 ## Future Work
 - Add JavaScript interactivity  
